@@ -1,2 +1,2 @@
-# plugins
-Plugins repositories
+# Plugins | Bludit
+Repository list
