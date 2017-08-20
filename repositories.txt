@@ -5,3 +5,4 @@ https://github.com/clickwork-git/googlecse
 https://github.com/clickwork-git/lightbox
 https://github.com/clickwork-git/tag-as-title
 https://github.com/clickwork-git/textarea
+https://github.com/clickwork-git/vanilla
