@@ -10,9 +10,8 @@ You can find the file `repositories.txt` in the root of this repository where we
 - Create a pull request
 
 ## Structure of the plugin repository
-The repository needs to have a defined structure to success added to the site.
+The repository must have a pre-defined structure to be included in the page.
 ```
-.
 languages/en_US.json
 metadata.json
 ```
