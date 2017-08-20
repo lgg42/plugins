@@ -1,10 +1,10 @@
-# Bludit Plugins
+# Plugins Repositories
 Bludit has his own site with a list of plugins, feel free to add your own plugin.
 
 https://plugins.bludit.com
 
 ## How to publish your plugin?
-You can find the file `repositories.txt` in the root of this repository where we store all the external repositories of users who made a plugin for Bludit.
+You can find the file `repositories.txt` in the root of this repository where we store all the external repositories.
 - Edit the file `repositories.txt`
 - Add a new line with your repository
 - Create a pull request
