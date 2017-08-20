@@ -15,3 +15,6 @@ The repository must have a pre-defined structure to be included in the site.
 languages/en_US.json
 metadata.json
 ```
+
+Here is an example
+- https://github.com/clickwork-git/customcss
