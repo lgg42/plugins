@@ -1,3 +1,4 @@
 https://github.com/Aquafortis/addtoany
 https://github.com/clickwork-git/customcss
 https://github.com/clickwork-git/footnotes
+https://github.com/clickwork-git/googlecse
