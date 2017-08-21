@@ -2,6 +2,7 @@ https://github.com/Aquafortis/addtoany
 https://github.com/clickwork-git/customcss
 https://github.com/clickwork-git/footnotes
 https://github.com/clickwork-git/googlecse
+https://github.com/Hydrock/highlight-bludit
 https://github.com/lhenriksson/Bludit-lastfm
 https://github.com/clickwork-git/lightbox
 https://github.com/clickwork-git/tag-as-title
