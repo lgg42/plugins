@@ -2,7 +2,6 @@ https://github.com/Aquafortis/addtoany
 https://github.com/clickwork-git/customcss
 https://github.com/clickwork-git/footnotes
 https://github.com/clickwork-git/googlecse
-https://git.mal-richtig.de/maxmalrichtig/bludit-isso-client
 https://github.com/lhenriksson/Bludit-lastfm
 https://github.com/clickwork-git/lightbox
 https://github.com/clickwork-git/tag-as-title
