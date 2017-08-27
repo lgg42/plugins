@@ -12,3 +12,4 @@ https://github.com/xm74/ads4u
 https://github.com/xm74/yandextools
 https://github.com/HarleyDavidson86/hitcounter
 https://github.com/HarleyDavidson86/encodemail
+https://github.com/MaxMalRichtig/bludit-isso-client
