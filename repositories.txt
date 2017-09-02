@@ -1,6 +1,7 @@
 https://github.com/Aquafortis/addtoany
 https://github.com/clickwork-git/animate-background
 https://github.com/clickwork-git/backup
+https://github.com/clickwork-git/ckeditor
 https://github.com/clickwork-git/contact
 https://github.com/clickwork-git/customcss
 https://github.com/clickwork-git/footnotes
