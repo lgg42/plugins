@@ -1,4 +1,5 @@
 https://github.com/Aquafortis/addtoany
+https://github.com/Bayerberg/bludit-admin-bar
 https://github.com/clickwork-git/animate-background
 https://github.com/clickwork-git/backup
 https://github.com/clickwork-git/ckeditor
@@ -7,6 +8,7 @@ https://github.com/clickwork-git/customcss
 https://github.com/clickwork-git/footnotes
 https://github.com/clickwork-git/googlecse
 https://github.com/Hydrock/highlight-bludit
+https://github.com/lhenriksson/Bludit-emoji
 https://github.com/lhenriksson/Bludit-lastfm
 https://github.com/lhenriksson/Bludit-search
 https://github.com/clickwork-git/lightbox
