@@ -1,4 +1,5 @@
 https://github.com/Aquafortis/addtoany
+https://github.com/Aquafortis/aqua-theme-colors
 https://github.com/Bayerberg/bludit-admin-bar
 https://github.com/clickwork-git/animate-background
 https://github.com/clickwork-git/backup
