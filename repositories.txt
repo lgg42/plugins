@@ -27,3 +27,4 @@ https://github.com/HarleyDavidson86/encodemail
 https://github.com/MaxMalRichtig/bludit-isso-client
 https://github.com/bludit-plugins/fancyBox
 https://github.com/bludit-plugins/woofmark
+https://github.com/bludit-plugins/simditor
