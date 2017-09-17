@@ -1,10 +1,10 @@
 https://github.com/Aquafortis/addtoany
 https://github.com/Aquafortis/aqua-theme-colors
 https://github.com/Bayerberg/bludit-admin-bar
-https://github.com/clickwork-git/animate-background
-https://github.com/clickwork-git/backup
+https://github.com/bludit-plugins/animate-background
+https://github.com/bludit-plugins/backup
 https://github.com/clickwork-git/ckeditor
-https://github.com/clickwork-git/contact
+https://github.com/bludit-plugins/contact
 https://github.com/bludit-plugins/cookie-consent
 https://github.com/clickwork-git/customcss
 https://github.com/clickwork-git/footnotes
@@ -14,8 +14,8 @@ https://github.com/lhenriksson/Bludit-emoji
 https://github.com/lhenriksson/Bludit-lastfm
 https://github.com/lhenriksson/Bludit-search
 https://github.com/clickwork-git/lightbox
-https://github.com/clickwork-git/reading-time
-https://github.com/clickwork-git/snow-flakes
+https://github.com/bludit-plugins/reading-time
+https://github.com/bludit-plugins/snow-flakes
 https://github.com/clickwork-git/tag-as-title
 https://github.com/clickwork-git/textarea
 https://github.com/clickwork-git/vanilla
