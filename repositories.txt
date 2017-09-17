@@ -15,6 +15,7 @@ https://github.com/lhenriksson/Bludit-lastfm
 https://github.com/lhenriksson/Bludit-search
 https://github.com/clickwork-git/lightbox
 https://github.com/bludit-plugins/reading-time
+https://github.com/bludit-plugins/ribbon
 https://github.com/bludit-plugins/snow-flakes
 https://github.com/clickwork-git/tag-as-title
 https://github.com/clickwork-git/textarea
