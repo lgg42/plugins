@@ -3,7 +3,7 @@ https://github.com/Aquafortis/aqua-theme-colors
 https://github.com/Bayerberg/bludit-admin-bar
 https://github.com/bludit-plugins/animate-background
 https://github.com/bludit-plugins/backup
-https://github.com/clickwork-git/ckeditor
+https://github.com/bludit-plugins/ckeditor
 https://github.com/bludit-plugins/contact
 https://github.com/bludit-plugins/cookie-consent
 https://github.com/clickwork-git/customcss
