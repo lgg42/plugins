@@ -22,7 +22,6 @@ https://github.com/clickwork-git/tag-as-title
 https://github.com/clickwork-git/textarea
 https://github.com/clickwork-git/vanilla
 https://github.com/Hydrock/highlight-bludit
-https://github.com/lhenriksson/Bludit-emoji
 https://github.com/lhenriksson/Bludit-lastfm
 https://github.com/lhenriksson/Bludit-search
 https://github.com/xm74/ads4u
