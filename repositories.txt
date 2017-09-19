@@ -7,6 +7,8 @@ https://github.com/bludit-plugins/ckeditor
 https://github.com/bludit-plugins/contact
 https://github.com/bludit-plugins/cookie-consent
 https://github.com/bludit-plugins/fancyBox
+https://github.com/bludit-plugins/gitter
+https://github.com/bludit-plugins/gravatar
 https://github.com/bludit-plugins/minify
 https://github.com/bludit-plugins/reading-time
 https://github.com/bludit-plugins/ribbon
