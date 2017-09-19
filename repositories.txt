@@ -6,6 +6,8 @@ https://github.com/bludit-plugins/backup
 https://github.com/bludit-plugins/ckeditor
 https://github.com/bludit-plugins/contact
 https://github.com/bludit-plugins/cookie-consent
+https://github.com/bludit-plugins/custom_fields
+https://github.com/bludit-plugins/facebooktools
 https://github.com/bludit-plugins/fancyBox
 https://github.com/bludit-plugins/gitter
 https://github.com/bludit-plugins/gravatar
