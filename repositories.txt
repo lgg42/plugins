@@ -10,9 +10,13 @@ https://github.com/bludit-plugins/fancyBox
 https://github.com/bludit-plugins/minify
 https://github.com/bludit-plugins/reading-time
 https://github.com/bludit-plugins/ribbon
+https://github.com/bludit-plugins/rrssb
+https://github.com/bludit-plugins/shortcode
 https://github.com/bludit-plugins/simditor
 https://github.com/bludit-plugins/snow-flakes
+https://github.com/bludit-plugins/tinymce
 https://github.com/bludit-plugins/trumbowyg
+https://github.com/bludit-plugins/twittercards
 https://github.com/bludit-plugins/woofmark
 https://github.com/clickwork-git/customcss
 https://github.com/clickwork-git/footnotes
