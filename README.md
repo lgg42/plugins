@@ -12,7 +12,7 @@ You can find the file `repositories.txt` in the root of this repository where we
 ## Plugin repository structure
 The repository must have a pre-defined structure to be included in the site.
 ```
-languages/en_US.json
+languages/en.json
 metadata.json
 ```
 
