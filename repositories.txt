@@ -32,6 +32,7 @@ https://github.com/clickwork-git/vanilla
 https://github.com/Hydrock/highlight-bludit
 https://github.com/lhenriksson/Bludit-lastfm
 https://github.com/lhenriksson/Bludit-search
+https://github.com/xm74/a2a
 https://github.com/xm74/ads4u
 https://github.com/xm74/yandextools
 https://github.com/HarleyDavidson86/hitcounter
