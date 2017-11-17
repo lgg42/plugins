@@ -39,3 +39,4 @@ https://github.com/HarleyDavidson86/hitcounter
 https://github.com/HarleyDavidson86/encodemail
 https://github.com/MaxMalRichtig/bludit-isso-client
 https://github.com/lgg42/piwikanalytics
+https://github.com/lgg42/coinhive
